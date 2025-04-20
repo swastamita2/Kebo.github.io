@@ -214,7 +214,7 @@ $('document').ready(function(){
 							Terima kasih sudah membaca sampai akhir.
 						  </h2>
 						  <p style="font-size:22px; color:#666; max-width:600px;">
-							Karena kita programmer, jadi kue ulang tahunnya dicoding aja ya<br>Maaf yaa sudah sengaja bikin badmood km hari ini. semoga ucapan sederhana dan kejutan kecil ini bisa sedikit membayarnyaa.
+							Karena kita programmer, jadi kue ulang tahunnya dicoding aja ya<br>ak sengaja jadi manusia menyebalkan hari ini cii <br> Maaf yaa sudah sengaja bikin badmood km hari ini. semoga ucapan sederhana dan kejutan kecil ini bisa sedikit membayarnyaa.
 						  </p>
 				  
 						  <button id="replay-btn" style="margin-top:40px; padding:10px 20px; font-size:18px;" class="btn btn-primary">Putar Lagi</button>
